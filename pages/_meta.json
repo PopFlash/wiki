@@ -5,10 +5,16 @@
     "type": "page"
   },
   "community": "Community",
-  "contact": {
-    "title": "Contact ↗",
+  "PopFlash": {
+    "title": "PopFlash ↗",
     "type": "page",
-    "href": "https://twitter.com/shuding_",
+    "href": "https://popflash.site",
+    "newWindow": true
+  },
+  "discord": {
+    "title": "Discord ↗",
+    "type": "page",
+    "href": "https://popflash.site/discord",
     "newWindow": true
   }
 }
